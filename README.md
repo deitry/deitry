@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You may
+
+## Contact me
+[<img align="left" alt="VK" width="26px" src="https://image.flaticon.com/icons/svg/733/733639.svg" />][vk]
+[<img align="left" alt="Telegram" width="26px" src="https://image.flaticon.com/icons/svg/2111/2111708.svg" />][telegram]
+[<img align="left" alt="LinkedIn" width="26px" src="https://image.flaticon.com/icons/svg/1384/1384030.svg" />][linkedin]
+
+<br />
+
+## Say thanks
+
+<a href="https://www.buymeacoffee.com/deitry" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" width="200"></a>
+
+[vk]: https://vk.com/deitry
+[telegram]: https://t.me/deitry
+[linkedin]: https://www.linkedin.com/in/deitry/
