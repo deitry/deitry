@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 You may
 
 ## Contact me
-[<img align="left" alt="VK" width="26px" src="https://image.flaticon.com/icons/svg/733/733639.svg" />][vk]
-[<img align="left" alt="Telegram" width="26px" src="https://image.flaticon.com/icons/svg/2111/2111708.svg" />][telegram]
-[<img align="left" alt="LinkedIn" width="26px" src="https://image.flaticon.com/icons/svg/1384/1384030.svg" />][linkedin]
+
+[<img align="left" alt="VK" width="26px" src="https://img.icons8.com/color/48/000000/vk-circled.png" />][vk]
+[<img align="left" alt="Telegram" width="26px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
+[<img align="left" alt="LinkedIn" width="26px" src="https://img.icons8.com/ultraviolet/40/000000/linkedin-circled--v1.png" />][linkedin]
 
 <br />
 
